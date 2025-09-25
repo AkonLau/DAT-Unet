@@ -38,7 +38,7 @@ About the installation of natten, you may refer to [natten](https://github.com/S
 
 Run command ```python main.py``` to train your model and chose different dataset.
 
-In the task of radio map estimation, the model performance is validated on two datasets, namely **[Radiomapseer](https://radiomapseer.github.io/index.html)**[1] and **[SpectrumNet 5D](https://github.com/ShuhangZhang/FDRadiomap)**[2]. 
+In the task of radio map estimation, the model performance is validated on two datasets, namely **[Radiomapseer](https://radiomapseer.github.io/index.html)** and **[SpectrumNet 5D](https://github.com/ShuhangZhang/FDRadiomap)**. 
 
 ### Sampling-based RME
 
